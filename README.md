@@ -3,12 +3,13 @@
 🎓 **Mathematics & Statistics Graduate** | 📊 Aspiring **Quant / Data Scientist / Data Analyst** | Passionate about **Analytics** 
 
 ### 📖 About Me
-- 🎓 Have completed my **BSc in Mathematics & Statistical Science (UWC)** and **BSc (Hons) Majoring in Mathematical Statistics (UFS)**.
-- 🌱 Currently learning more about **machine learning, Python, and data visualization**.
-- 👯 Looking to collaborate on **data science projects, open-source analytics tools, and statistical modeling**.
+- 🎓 Completed **BSc in Mathematics & Statistical Science (UWC)** and **BSc (Hons) Majoring in Mathematical Statistics (UFS)**.
+- 🌱 Currently learning more about **Machine learning, Python, and Data visualization**.
+- 👯 Looking to collaborate on **Data science projects, Open-source analytics tools, and Statistical modeling**.
 - 💬 Ask me about **R, Python, SQL, data analysis, and statistical modeling**.
 - 📫 Reach me at **gcangasihle@gmail.com** | [LinkedIn](https://www.linkedin.com/in/sihle-gcanga-883ba2215)
-- ⚡ Fun fact: I enjoy **running half-marathons** and exploring **real-world applications of statistics**.  
+- ⚡ Fun fact: I enjoy **running half-marathons** and exploring **real-world applications of statistics**.
+
 -->
 
 ### 🚀 Skills & Tools  
