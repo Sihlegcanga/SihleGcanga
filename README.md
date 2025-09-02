@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Sihle Gcanga
 
-🎓 **Mathematics & Statistics Graduate** | 📊 Aspiring **Quant / Data Scientist / Data Analyst** | Passionate about **Analytics** 
+🎓 **Mathematics & Statistics Graduate** | 
+📊 Aspiring **Quant / Data Scientist / Data Analyst** | Passionate about **Analytics** 
 
 ### 📖 About Me
 - 🎓 Completed **BSc in Mathematics & Statistical Science (UWC)** and **BSc (Hons) Majoring in Mathematical Statistics (UFS)**.
@@ -18,5 +19,13 @@
 - **Data Science:** Machine Learning, Data Visualization, Clustering, PCA  
 - **Tools:** Git/GitHub, Excel, Power BI, RStudio
 
-### 📂 Repositories & Projects  
-- 📊 **Statistical Distribution Fitting:** Analyzing heavy-tailed financial returns (published work ✅).  
+### 📂 Featured Projects  
+- 📊 **Statistical Distribution Fitting:** Analyzing heavy-tailed financial returns (published work ✅).
+- **Obesity Prediction Study** - 
+- **University Clustering Analysis** - Hierarchical clustering on mixed-type datasets.
+- **Poison Dataset Exploration** - Multiple correspondence analysis to identify likely causes of sickness
+
+## 📬 Contact me at; 
+
+- 📧 Email: **gcangasihle@gmail.com**  
+- 🔗 LinkedIn: https://www.linkedin.com/in/sihle-gcanga-883ba2215
