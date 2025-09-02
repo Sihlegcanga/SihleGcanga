@@ -1,13 +1,13 @@
 ## Hi there 👋, I'm Sihle Gcanga
 
-🎓 Mathematics & Statistics Graduate | 📊 Aspiring Quant/Data Scientist/Data Analyst | Passionate about Analytics  
+🎓 **Mathematics & Statistics Graduate** | 📊 Aspiring **Quant / Data Scientist / Data Analyst | Passionate about **Analytics** 
 
-
-- 🔭 I have completed my **BSc in Mathematics & Statistical Science (UWC)** and **BSc (Hons) Majoring in Mathematical Statistics (UFS)**.
-- 🌱 I’m currently learning more about **machine learning, Python, and data visualization**.
-- 👯 I’m looking to collaborate on **data science projects, open-source analytics tools, and statistical modeling**.
+### 📖 About Me
+- 🎓 Have completed my **BSc in Mathematics & Statistical Science (UWC)** and **BSc (Hons) Majoring in Mathematical Statistics (UFS)**.
+- 🌱 Currently learning more about **machine learning, Python, and data visualization**.
+- 👯 Looking to collaborate on **data science projects, open-source analytics tools, and statistical modeling**.
 - 💬 Ask me about **R, Python, SQL, data analysis, and statistical modeling**.
-- 📫 How to reach me: **gcangasihle@gmail.com** | [LinkedIn](h
+- 📫 Reach me at **gcangasihle@gmail.com** | [LinkedIn](https://www.linkedin.com/in/sihle-gcanga-883ba2215)
 - ⚡ Fun fact: I enjoy **running half-marathons** and exploring **real-world applications of statistics**.  
 -->
 
