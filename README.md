@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Sihle Gcanga
 
-🎓 **Mathematics & Statistics Graduate** | 📊 Aspiring **Quant / Data Scientist / Data Analyst | Passionate about **Analytics** 
+🎓 **Mathematics & Statistics Graduate** | 📊 Aspiring **Quant / Data Scientist / Data Analyst** | Passionate about **Analytics** 
 
 ### 📖 About Me
 - 🎓 Have completed my **BSc in Mathematics & Statistical Science (UWC)** and **BSc (Hons) Majoring in Mathematical Statistics (UFS)**.
